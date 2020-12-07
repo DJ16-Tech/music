@@ -1,0 +1,3 @@
+mkdir musicbot && cd musicbot
+touch index.js && touch config.json
+code .
